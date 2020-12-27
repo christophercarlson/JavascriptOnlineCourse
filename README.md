@@ -1,2 +1,2 @@
 # JavascriptOnlineCourse
-Udemy's The Complete JavaScript Course 2020: From Zero to Expert! Your progress by Jonas Schmedtmann
+Udemy's The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
